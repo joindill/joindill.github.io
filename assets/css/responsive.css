@@ -433,7 +433,7 @@
 @media (max-width: 767px) {
   .welcome-area,
   .homepage-5 .welcome-area {
-    height: 100% !important;
+    /* height: 100% !important; */
     padding-top: 90px;
   }
 
